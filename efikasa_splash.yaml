@@ -1,0 +1,18 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+  color: "#128d7d"
+  fullscreen: true
+
+  background_image: "assets/background.png"
+  image: "assets/efikasa_splash.png"
+
+  background_image_dark: "assets/background.png"
+  image_dark: "assets/efikasa_splash.png"
+
+  android_12:
+    background_image: "assets/background.png"
+    image: "assets/efikasa_splash.png"
+    fullscreen: true
+    icon_background_color: "#128d7d"

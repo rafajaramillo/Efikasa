@@ -1,0 +1,71 @@
+# =========================
+# Archivos sensibles
+# =========================
+.env
+*.key
+*.crt
+*.pem
+
+# =========================
+# Flutter / Dart
+# =========================
+.dart_tool/
+.packages
+.pub-cache/
+build/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework/
+android/.gradle/
+android/app/build/
+*.iml
+.idea/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# =========================
+# Home Assistant / InfluxDB
+# =========================
+home-assistant_v2.db
+*.log
+*.db-shm
+*.db-wal
+.storage/
+data/
+wal/
+meta/
+
+# =========================
+# Archivos temporales
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# Archivos del sistema
+# =========================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# IDEs
+.vscode/
+.idea/

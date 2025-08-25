@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395880072127",
+    "project_id": "efikasa-77e8a",
+    "storage_bucket": "efikasa-77e8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395880072127:android:2b31d83f40e7057914d70a",
+        "android_client_info": {
+          "package_name": "com.example.efikasa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_zHsW7kmO-cYVFl2Atzi5Tf_aVG6iIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
