@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si utilizas este software, por favor cita este trabajo."
+title: "Efikasa: Plataforma IoT para eficiencia energética en hogares conectados"
+authors:
+  - family-names: Jaramillo
+    given-names: Santiago
+version: "1.0.0"
+date-released: "2025-08-25"
+repository-code: "https://github.com/tu-usuario/efikasa"
+license: "AGPL-3.0-only"
+preferred-citation:
+  type: article
+  title: "Efikasa: Plataforma IoT de eficiencia energética (MVP académico)"
+  authors:
+    - family-names: Jaramillo
+      given-names: Santiago
+  year: 2025
