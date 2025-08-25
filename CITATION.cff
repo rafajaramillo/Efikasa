@@ -6,7 +6,7 @@ authors:
     given-names: Santiago
 version: "1.0.0"
 date-released: "2025-08-25"
-repository-code: "https://github.com/tu-usuario/efikasa"
+repository-code: "https://github.com/rafajaramillo/efikasa"
 license: "AGPL-3.0-only"
 preferred-citation:
   type: article
